@@ -1,7 +1,7 @@
 {
     "id": 131713130,
     "name": "Cave A Neer",
-    "author": "Zis08",
+    "author": "zis08",
     "creators": [
       "zis08",
       "blightedcoconut"
@@ -9,6 +9,8 @@
     "verifier": "zis08",
     "verification": "https://youtu.be/7vp7MYNVkGk",
     "percentToQualify": "100",
+    "face": "ex3",
+    "ss": "Robot",
     "records": [
         {
             "user": "MMB9595",
