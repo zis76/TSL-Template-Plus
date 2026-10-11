@@ -1,0 +1,45 @@
+
+    "id": 129276458,
+    "name": "VOX POPULI",
+    "author": "RustyGD25",
+    "creators": [],
+    "verifier": "Rusty",
+    "verification": "https://www.youtube.com/watch?v=B-izjuhnhtI",
+    "percentToQualify": "100",
+    "nong": "Vox.mp3",
+    "face": "i1",
+    "ss": "UFO, Chokepoints",
+    "records": [
+        {
+            "user": "Sadisyourlife",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1450151597047939284",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "zis76",
+            "link": "https://medal.tv/games/geometry-dash/clips/lYu2z0sNqo_fiUcER?invite=cr-MSxERDksMTY4ODkwOTU4",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Probro675",
+            "link": "https://youtu.be/1R9m7F5F54M?si=c9iXKBbAa5-5EFoU",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1413625809112924307/1556655462273912963/1556656146209701959",
+            "hz": "240",
+            "percent": 100
+      },
+        {
+            "user": "ArioPC",
+            "link": "https://medal.tv/games/geometry-dash/clips/nFoteehjXLd6bVc0s?invite=cr-MSxlangsMjE3MzQ4MzIz",
+            "hz": "CBS",
+            "percent": 100
+        }
+    ]
+}
