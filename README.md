@@ -7,7 +7,7 @@ The extra stuff added was coded by zis08, snail, and azel
 
 If you need help setting up your list, use this video as reference 
 
-# Some New stuffed added is 
+# New stuffed added is 
 - Packs
 - Creator Leaderboard
 - Nong Download Button
