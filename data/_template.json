@@ -23,3 +23,11 @@
         }
     ]
 }
+"Do not copy this file for your Level data use one of the levels already filled out"
+
+"Face/Rating Combination"
+"Face: e = Easy Demon, m = Medium Demon, h = Hard Demon, i = Insane Demon, ex = Extreme Demon"
+"Rating: 1 = Standard, 2 = Feature, 3 = Epic, 4 = Legendary, 5 = Mythic"
+"All Combinations have face first, then rating"
+"if it was a epic medium demon it would look like this m3"
+"you can also do no face by removing the letter and just doing the number"
