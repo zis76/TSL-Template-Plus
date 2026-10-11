@@ -1,0 +1,18 @@
+{
+    "id": X,    "ID of the Level"
+    "name": "X",   "Name of the Level"
+    "author": "X",   "Uploader Of level"
+    "creators": [
+      "X",
+      "X"
+    ],     "All Creators of the Level - If only one leave it blank" 
+    "verifier": "X",    "Verifier of the Level"
+    "verification": "X",    "Video of the Level"
+    "percentToQualify": "100",   "List Percent of Level"
+    "face": "X",    "Difficulty/Rating of Level"
+    "nong": "X.mp3",    "Nong file of Level - put all mp3 in the nongs file - if level dose not have a nong remove this row"
+    "ss": "X",    "Skillset of Level"
+    "fps": "X",    "Required FPS for the Level - If every fps is allowed remove this row"
+    "records": [
+    ]
+}
