@@ -1,0 +1,26 @@
+{
+    "id": 131713130,
+    "name": "Cave A Neer",
+    "author": "Zis08",
+    "creators": [
+      "zis08",
+      "blightedcoconut"
+    ],
+    "verifier": "zis08",
+    "verification": "https://youtu.be/7vp7MYNVkGk",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MMB9595",
+            "link": "https://www.youtube.com/watch?v=wa4zLyBFaho",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "TFluffy",
+            "link": "https://www.youtube.com/watch?v=pHpT20btl7U",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}
