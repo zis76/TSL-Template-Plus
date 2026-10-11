@@ -270,6 +270,12 @@ export default {
               <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a>
             </p>
           </div>
+          <div class="ff">
+            <p class="type-label-md">
+              Additions to templete by
+              <a href="https://www.youtube.com/@siz08675" target="_blank">zis08</a>
+            </p>
+          </div>
           <div class="oo">
             <p class="type-label-md">
               Code for packs made by
