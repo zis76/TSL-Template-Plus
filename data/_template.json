@@ -18,8 +18,8 @@
             "user": "X",     "Player Name"
             "link": "X",     "Video of Completion"
             "hz": "X",     "Fps or CBF Used"
-            "percent": 100,     "percentage achieved - 
-            "mobile": "true"
-        },
+            "percent": 100,     "percentage achieved - keep at 100 unless using list percentage"
+            "mobile": "true"     "if the player is on mobile keep if not remove"
+        }
     ]
 }
