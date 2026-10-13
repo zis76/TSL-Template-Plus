@@ -52,7 +52,7 @@ export default {
         ? this.filteredList[this.selected][0]
         : null;
     },
-    // Compute the original rank (index) in the full list for display purposes.
+      
     selectedIndexInFullList() {
       if (!this.selectedLevel) return this.selected + 1;
       return (
@@ -63,7 +63,7 @@ export default {
     },
   },
   watch: {
-    // Reset the selected index when the search query changes.
+
     searchQuery() {
       this.selected = 0;
     },
