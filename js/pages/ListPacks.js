@@ -51,7 +51,6 @@ export default {
 
         const countedUsers = new Set();
 
-        // Verifier
         if (level.verifier) {
           const verifier = level.verifier;
           const key = this.normalize(verifier);
