@@ -1,13 +1,6 @@
-:root {
-    --color-background: white;
-    --color-on-background: black;
-    --color-primary: #0066ff;
-    --color-on-primary: white;
-}
-
 .nav {
     display: flex;
-    column-gap: 1rem;
+    column-gap: 2rem;
 }
 .nav .nav__tab {
     padding-top: 4px;
