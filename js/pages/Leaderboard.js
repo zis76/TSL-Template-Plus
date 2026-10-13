@@ -109,7 +109,7 @@ export default {
                             </tr>
                         </table>
 
-                        <!-- ABOVE 150 -->
+                        <!-- Legacy -->
                         <h2 v-if="above150.length > 0">
                             Legacy Completions ({{ above150.length }})
                         </h2>
@@ -229,7 +229,7 @@ export default {
     async mounted() {
     const [leaderboard, err] = await fetchLeaderboard();
 
-    const excludedUsers = ["finni1505"];
+    const excludedUsers = [];
 
     const filteredLeaderboard = leaderboard
         .filter(entry => !excludedUsers.includes(entry.user))
@@ -255,7 +255,6 @@ export default {
     methods: {
         localize,
 
-        // USED FOR LEADERBOARD TABLE
         getTotalWithPacks(entry) {
             const completed = entry.completed || [];
             const verified = entry.verified || [];
