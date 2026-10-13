@@ -123,10 +123,6 @@ export async function fetchLeaderboard() {
     return [res.sort((a, b) => b.total - a.total), errs];
 }
 
-/* ===========================
-   Creator Leaderboard
-=========================== */
-
 const FACE_POINTS = {
     e1: 10,
     m1: 10,
@@ -176,10 +172,9 @@ export async function fetchCreatorLeaderboard() {
             return;
         }
     
-        // Use the face value instead of quality
         const points = FACE_POINTS[(level.face || "").toLowerCase()] || 0;
     
-        // If there are no creators, credit the author instead.
+
         const creators =
             level.creators && level.creators.length > 0
                 ? level.creators
