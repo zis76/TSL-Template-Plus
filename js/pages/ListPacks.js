@@ -72,7 +72,6 @@ export default {
           }
         }
 
-        // Records
         if (level.records) {
           level.records.forEach((record) => {
             if (record.percent !== 100) return;
@@ -120,7 +119,6 @@ export default {
       res.json()
     );
 
-    // Apply filtering + renaming once globally
     list.forEach(([level]) => {
       if (level && Array.isArray(level.records)) {
         level.records = processRecords(level.records);
@@ -135,7 +133,6 @@ export default {
   methods: {
     embed,
 
-    // Used ONLY for comparisons, not display
     normalize(name) {
       return name.toLowerCase();
     },
